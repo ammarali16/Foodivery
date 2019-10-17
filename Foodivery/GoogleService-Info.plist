@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>304443097251-omq34roiipf3k7jg1jf2lc278qdg1kh7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.304443097251-omq34roiipf3k7jg1jf2lc278qdg1kh7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyASCuq2OGHBoJZ8WNAc5XlRX9_qLDX8-KU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304443097251</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fammuk.Foodivery</string>
+	<key>PROJECT_ID</key>
+	<string>fammuk-apps</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fammuk-apps.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304443097251:ios:6f23a1b50f156433</string>
+	<key>DATABASE_URL</key>
+	<string>https://fammuk-apps.firebaseio.com</string>
+</dict>
+</plist>
